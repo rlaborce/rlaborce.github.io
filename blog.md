@@ -4,7 +4,7 @@ layout: default
 
 <div class="container content">
         <ul id="removeBullets">
-          <h3>2016</h3>
+          <h3 class="h3year">2016</h3>
               <li><a href="/">
                 <div>
                 <span class="title">First Post Ever</span>
