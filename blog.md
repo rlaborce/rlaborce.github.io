@@ -2,7 +2,6 @@
 layout: default
 ---
 <br>
-<br>
 <div class="container content">
         <ul id="removeBullets">
           <h3 class="h3year">2016</h3>
