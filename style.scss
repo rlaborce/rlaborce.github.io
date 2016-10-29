@@ -78,10 +78,12 @@ p {
 
 a {
   font-weight: bold;
+  color: $darkGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
   font-weight: bold;
+	  color: $darkGray;
   }
 }
 
@@ -220,7 +222,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $darkGray;
     }
   }
 }
