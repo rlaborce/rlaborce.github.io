@@ -78,11 +78,12 @@ p {
 
 a {
   color: $black;
+	font-weight: 300;
   text-decoration: none;
 	cursor: pointer;
   &:hover {
 	  color: $black;
-	  font-weight: bold;
+	  text-decoration: underline;
   }
 }
 
