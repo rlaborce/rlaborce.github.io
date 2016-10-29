@@ -248,6 +248,10 @@ ul {
 
 .date {
 	float: right;
+	
+	@include mobile{
+	display: none;
+	}
 }
 
 .posts > .post:last-child {
