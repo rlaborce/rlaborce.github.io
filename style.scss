@@ -17,19 +17,15 @@ html {
   font-size: 100%;
 }
 
-body { 
-	font: 16px;
-  	color: $darkGray;
-}
-
-.entry {
-
-	text-align: justify;
+body { 	
 	line-height: 2;
 	margin: 1em 0 15px;
 	padding: 0;
 	font-family: 'Open Sans', sans-serif; 
+	font: 16px;
+  	color: $darkGray;
 }
+
 
 .container {
   margin: 0 auto;
@@ -73,6 +69,7 @@ h4 {
 }
 
 p {
+text-align: justify;
   margin: 15px 0;
 }
 
