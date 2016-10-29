@@ -17,14 +17,18 @@ html {
   font-size: 100%;
 }
 
-body {
+body { 
+	font: 16px;
+  	color: $darkGray;
+}
+
+.entry {
+
 	text-align: justify;
 	line-height: 2;
 	margin: 1em 0 15px;
 	padding: 0;
-	font-family: 'Open Sans', sans-serif;  
-	font: 16px;
-  	color: $darkGray;
+	font-family: 'Open Sans', sans-serif; 
 }
 
 .container {
