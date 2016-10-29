@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container content">
-        <ul class="posts">
+        <ul id="removeBullets">
           <h3>2016</h3>
               <li><a href="/">
                 <div>
