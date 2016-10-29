@@ -250,6 +250,15 @@ nav {
   border-bottom: 1px solid $lightGray;
 }
 
+ul .posts {
+	list-style-type: none;
+	text-align: center;
+}
+
+.date {
+	float: right;
+}
+
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
