@@ -259,14 +259,12 @@ nav {
 }
 
 #removeBullets li {
+	text-align: left;
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
 }
 
-.title{
-	float: left;
-}
 
 .date {
 	float: right;
