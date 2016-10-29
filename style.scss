@@ -26,6 +26,9 @@ body {
   	color: $darkGray;
 }
 
+.home {
+	text-align: center;
+}
 
 .container {
   margin: 0 auto;
@@ -69,8 +72,8 @@ h4 {
 }
 
 p {
-text-align: justify;
-  margin: 15px 0;
+	text-align: justify;
+  	margin: 15px 0;
 }
 
 a {
