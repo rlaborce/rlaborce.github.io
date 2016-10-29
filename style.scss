@@ -78,10 +78,12 @@ p {
 
 a {
   color: $darkGray;
+	font-weight: 700;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
 	  color: $darkGray;
+	  font-weight: 700;
   }
 }
 
