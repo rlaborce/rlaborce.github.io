@@ -258,8 +258,8 @@ nav {
 	text-align: center;
 }
 
-#removeBullets li {
-	text-align: left;
+#removeBullets ul li {
+	float: left;
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
