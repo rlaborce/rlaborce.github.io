@@ -2,7 +2,7 @@
 layout: default
 ---
 <br>
-<div class="container content">
+<div>
         <ul id="removeBullets">
           <h3 class="h3year">2016</h3>
               <li><a href="https://rlaborce.github.io/dev/first-post-ever">
@@ -13,5 +13,4 @@ layout: default
                 </a>
               </li>         
         </ul>
-
 </div>
