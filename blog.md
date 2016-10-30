@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Blog | Neil Laborce
 ---
 <div>
         <ul id="removeBullets">
