@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blog | Neil Laborce
+description: This blog serves as documentation for Neil's progress in webmastering as well as to share some thoughts, insights and daily happenings.
 ---
 <div>
         <ul id="removeBullets">
