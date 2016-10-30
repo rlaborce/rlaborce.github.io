@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Info - Neil Laborce
+title: Info | Neil Laborce
 description: Learn about Neil Laborce's professional career and his start into SEO.
 ---
 
