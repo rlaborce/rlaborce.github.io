@@ -13,7 +13,7 @@ description: This blog serves as documentation for Neil's progress in webmasteri
                 </div>
                 </a>
               </li>
-              <li><a href="https://rlaborce.github.io/dev/first-post-ever">
+              <li><a href="https://rlaborce.github.io/first-post-ever">
                 <div>
                 <span class="title">This Is Literally My First Post Ever</span>
                 <span class="date">Oct 28, 2016</span>
