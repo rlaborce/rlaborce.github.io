@@ -3,8 +3,8 @@ layout: post
 title: My First Post Ever | Neil Laborce
 description: This is the very first post for Neil's blog.
 ---
-  <h1>My First Post Ever - Congratulations!</h1>
-  <br>Thank you, thank you!
+  <h1>My First Post Ever</h1>
+  <br>Congratulations - Thank you, thank you!
   <br>
   <br>My name is Neil and I'm an SEO Engineer at Treefrog Inc. I wasn't always spending my day on the Internet optimizing websites; in fact I was working in a completely different industry. My career began in 2010 as an internship student for Hydro One. In that role, I built a database that housed 100,000 data points for 1011 distribution stations surveyed across the province. After completing my internship, I finished my last year of school in 2012 and received a Bachelor's Degree in Electrical Engineering from Ryerson University. I then worked in the solar energy industry for a few years, analyzing the performance for various rooftop solar installations. 
   
