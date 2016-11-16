@@ -55,7 +55,6 @@ description: Learn about Treefrog's SEO Mantra "People First, Always". It's orig
   <br>
   <h2>Putting People First Into Practice</h2>
   <iframe width="500" height="281" src="https://www.youtube.com/embed/C8m-cPVKEbY?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
-  <br>
   <br>This same sentiment of putting the user first can be easily applied to clients. I found this nice little video when I searched “People First” on Youtube and it illustrates exactly what I mean (minus the application to insurance). Whenever you are doing any work for the client, ask yourself “Is this people first?”.
   <br>
   <ul>
