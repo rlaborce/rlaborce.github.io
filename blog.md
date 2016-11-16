@@ -8,7 +8,7 @@ description: This blog serves as documentation for Neil's progress in webmasteri
           <h3 class="h3year">2016</h3>
               <li><a href="{{ site.baseurl }}/put-people-first-seo/">
                 <div>
-                <span class="title">My First Post Ever</span>
+                <span class="title">People First, Always</span>
                 <span class="date">Nov 15, 2016</span>
                 </div>
                 </a>
