@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEO Mantra: People First, Always | Neil Laborce
-description: Learn about Treefrog's SEO Mantra "People First, Always"; it's origin and what it means to the SEO team.
+description: Learn about Treefrog's SEO Mantra "People First, Always" - it's origin and what it means to the SEO team.
 ---
   <h1>Treefrog's SEO Mantra: "People First, Always"</h1>
   <br>
