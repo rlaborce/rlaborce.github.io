@@ -54,8 +54,8 @@ description: Learn about Treefrog's SEO Mantra "People First, Always". It's orig
   <br>With the rise of mobile use and search engines behaving more and more like users, user experience is directly correlating with ranking signals. In other words, the better the user experience, the better your ranking. It’s quite simple really - if your website offers something that keeps a user coming back, then it deserves to show up prominently on the results page. This indicates that your website holds something of value that should be displayed to everyone else. However, if your website offers a plethora of bullshit, then your website deserves to be put on Page 50 (also known as the place where websites die and whither) never to be seen by anyone. When optimizing a website, remember to put people first!
   <br>
   <h2>Putting People First Into Practice</h2>
-  <iframe width="500" height="281" src="https://www.youtube.com/embed/C8m-cPVKEbY?rel=0&amp;controls=0" frameborder="0" allowfullscreen></iframe>
-  <br>This same sentiment of putting the user first can be easily applied to clients. I found this nice little video when I searched “People First” on Youtube and it illustrates exactly what I mean (minus the application to insurance). Whenever you are doing any work for the client, ask yourself “Is this people first?”.
+  <iframe width="500" height="281" src="https://www.youtube.com/embed/C8m-cPVKEbY?rel=0" frameborder="0" allowfullscreen></iframe>
+  This same sentiment of putting the user first can be easily applied to clients. I found this nice little video when I searched “People First” on Youtube and it illustrates exactly what I mean (minus the application to insurance). Whenever you are doing any work for the client, ask yourself “Is this people first?”.
   <br>
   <ul>
 	  <li>- Will this report actually be helpful to the client?</li>
