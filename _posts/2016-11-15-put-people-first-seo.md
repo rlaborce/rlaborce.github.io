@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEO Mantra People First Always | Neil Laborce
+title: SEO Mantra - People First Always | Neil Laborce
 description: This is the very first post for Neil's blog.
 ---
   <h1>Treefrog's SEO Mantra: "People First, Always"</h1>
