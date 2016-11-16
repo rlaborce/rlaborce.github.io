@@ -63,7 +63,7 @@ description: Learn about Treefrog's SEO Mantra "People First, Always". It's orig
   <ul>
 	  <li>- Will this report actually be helpful to the client?</li>
 	  <li>- Is optimizing this page going to get them the right leads?</li>
-	  <li>- Is ranking for “keyword” really in line with their end goal?</li>
+	  <li>- Is ranking for “keyword xyz” really in line with their end goal?</li>
 	  <li>- Is my work making things easier for my client’s business?</li>
 	  <li>- Am I actually helping make my client’s life a little better?</li> 
   </ul>
