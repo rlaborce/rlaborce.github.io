@@ -22,8 +22,8 @@ description: This is the very first post for Neil's blog.
   <br>
   <ul>
     <li>- they have to have high quality content</li>
-    <li>- they have to have useful, practical, actionable, genuine information</li>
-    <li>- they have to answer the user's query and at times even go beyond it</li>
+    <li>- they have to have useful and practical information</li>
+    <li>- they have to answer the user's query</li>
     <li>- they have to meet the user's intent</li>
     <li>- they have to be user friendly to navigate</li>
     <li>- they have to be fast</li>
