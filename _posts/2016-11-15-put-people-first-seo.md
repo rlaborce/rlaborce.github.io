@@ -18,7 +18,7 @@ description: Learn about Treefrog's SEO Mantra "People First, Always". It's orig
     <li>- we measure, we optimize, we measure again</li>
     <li>- we communicate the results of our work, in a way that the client clearly understands it</li>
   </ul>
-  <br>And upon further conversation, we also identified the following key things we believer users and search engines are looking for in a website:
+  And upon further conversation, we also identified the following key things we believer users and search engines are looking for in a website:
   <br>
   <ul>
     <li>- they have to have high quality content</li>
