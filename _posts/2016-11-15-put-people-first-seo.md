@@ -60,12 +60,11 @@ description: Learn about Treefrog's SEO Mantra "People First, Always". It's orig
   <ul>
 	  <li>- Will this report actually be helpful to the client?</li>
 	  <li>- Is optimizing this page going to get them the right leads?</li>
-	  <li>- Is ranking for “Get more organic traffic” really in line with their end goal?</li>
+	  <li>- Is ranking for “keyword” really in line with their end goal?</li>
 	  <li>- Is my work making things easier for my client’s business?</li>
 	  <li>- Am I actually helping make my client’s life a little better?</li> 
   </ul>
-  <br>
-  <br>For past few weeks, Treefrog’s SEO team has been putting this frame of mind – this mantra “People First. Always” - into practice. Any work we ever do for the client, any though we ever have for the client, we remind ourselves “People First. Always”. We found ourselves more focused, more motivated and more inspired to ensure we meet the needs of our clients. It’s also helped us remind ourselves of the bigger picture. We’re not just trying to rank for keywords, we’re trying to make a real difference into our client’s businesses and their customers.
+  <br>For the past few weeks, Treefrog’s SEO team has been putting this frame of mind – this mantra “People First. Always” - into practice. Any work we ever do for the client, any though we ever have for the client, we remind ourselves “People First. Always”. We found ourselves more focused, more motivated and more inspired to ensure we meet the needs of our clients. It also reminds us of the bigger picture: we’re not just trying to rank for keywords, we’re trying to make a real difference into our client’s businesses and their customers.
   <br>
   <h2>Do You Put People First?</h2>
   <br>Our philosophy is simple: if you put people first, search engine optimization will fall into place accordingly. If you create a website with high quality content with high quality user experience then sharing your content, link building and user engagement becomes so much easier. All factors in which all play a significant role in ranking. If you put people first, your client relationship will be a positive one with a healthy solid foundation and clear understanding of the bigger picture. 
