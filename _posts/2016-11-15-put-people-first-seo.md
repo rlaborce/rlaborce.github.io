@@ -64,12 +64,12 @@ description: Learn about Treefrog's SEO Mantra "People First, Always". It's orig
 	  <li>- Is my work making things easier for my client’s business?</li>
 	  <li>- Am I actually helping make my client’s life a little better?</li> 
   </ul>
-  For the past few weeks, Treefrog’s SEO team has been putting this frame of mind – this mantra “People First. Always” - into practice. Any work we ever do for the client, any though we ever have for the client, we remind ourselves “People First. Always”. We found ourselves more focused, more motivated and more inspired to ensure we meet the needs of our clients. It also reminds us of the bigger picture: we’re not just trying to rank for keywords, we’re trying to make a real difference into our client’s businesses and their customers.
+  For the past few weeks, Treefrog’s SEO team has been putting this frame of mind – this mantra “People First. Always” - into practice. Any work we ever do for the client, any though we ever have for the client, we remind ourselves “People First. Always”. We found ourselves more focused, more motivated and more inspired to ensure we meet the needs of our clients. It also kept reminding us of the bigger picture: we’re not just trying to rank for keywords, we’re trying to make a real difference into our client’s business and their customers.
   <br>
   <h2>Do You Put People First?</h2>
-  <br>Our philosophy is simple: if you put people first, search engine optimization will fall into place accordingly. If you create a website with high quality content with high quality user experience then sharing your content, link building and user engagement becomes so much easier (factors in which all play a significant role in ranking). If you put people first, your client relationship will become positive. If you put your clients first, then reporting results, building a healthy solid foundation and having a clear understanding of the bigger picture also becomes so much easier.
+  <br>Our philosophy is simple: if you put people first, search engine optimization will fall into place accordingly. If you create a website with high quality content with high quality user experience then sharing your content, link building and user engagement becomes so much easier (factors in which all play a significant role in ranking). If you put people first, your client relationship will become a positive one. Creating reports, sharing results, building a solid foundation of your SEO strategy and having a clear understanding of the bigger picture becomes so much easier.
   <br>
-  <br>So when optimizing websites or working with clients, remember to put <b>people first, always.</b>
+  <br>When optimizing websites or working with clients, remember to put <b>people first, always.</b>
   <br>
   <br>Neil.
   <br>
