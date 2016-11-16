@@ -49,7 +49,7 @@ description: This is the very first post for Neil's blog.
   <br>
   <br>Remember keyword spamming? 
   <br>
-  <br>“Yes, this article says “Get more Organic Traffic” a billion times in the title, headings, text and description but it doesn’t actually tell me how to actually do it! WTF GOOGLE!?
+  <br><i><b>Yes, this article says “Get more Organic Traffic” a billion times in the title, headings, text and description but it doesn’t actually tell me how to actually do it! WTF GOOGLE!?</b></i>
   <br>
   <br>With the rise of mobile use and search engines behaving more and more like users, user experience is directly correlating with ranking signals. In other words, the better the user experience, the better your ranking. It’s quite simple really - if your website offers something that makes a user coming back, then it deserves to show up prominently on the results page. This indicates that your website holds something of value that should be displayed to everyone else. However, if your website offers a plethora of bullshit, then your website deserves to be put Page 50 (also known as the place where websites die and whither) never to be seen by anyone. When optimizing a website, remember to put people first!
   <br>
