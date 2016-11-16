@@ -3,7 +3,7 @@ layout: post
 title: SEO Mantra - People First Always | Neil Laborce
 description: Learn about Treefrog's SEO Mantra "People First, Always". It's origin and what it means to the SEO team.
 ---
-  <h1>Treefrog's SEO Mantra: "People First, Always"</h1>
+  <h1>Treefrog's SEO Mantra: People First, Always</h1>
   <br>A few weeks ago, my colleague <a href="https://twitter.com/KevinCobus">Kevin</a> was reading a brilliant article from the good folks at <a href="https://www.distilled.net/resources/better-business-documents-guide">Distilled</a> discussing  better ways in writing business documents. In the article, <a href="https://www.distilled.net/about/people/will-critchlow/">Will Critchlow</a> highlights and reiterates that it's not Distilled's "job to deliver reports, it’s [their] job to effect change". The article makes recommendations on how to effectively report to clients without breaking your back delivering a 100-page snoozer while missing key deliverables, such as actually doing the work! 
   <br>
   <br>What we’ve always found a challenge is finding the happy medium between completing the work and reporting on the results from the accomplished work. Often times we find ourselves spending the month reporting and sharing our findings with the client, that by the end of the month, we’re already a few weeks delayed in completing the action items we set out to do. We’ve been doing a better job in the last year but there are still some improvements to make. Identifying that Distilled had a very clear mantra to follow, one of the questions Kevin postulated to help improve our team was “What is our mantra to live by?”.
@@ -67,11 +67,10 @@ description: Learn about Treefrog's SEO Mantra "People First, Always". It's orig
   For the past few weeks, Treefrog’s SEO team has been putting this frame of mind – this mantra “People First. Always” - into practice. Any work we ever do for the client, any though we ever have for the client, we remind ourselves “People First. Always”. We found ourselves more focused, more motivated and more inspired to ensure we meet the needs of our clients. It also reminds us of the bigger picture: we’re not just trying to rank for keywords, we’re trying to make a real difference into our client’s businesses and their customers.
   <br>
   <h2>Do You Put People First?</h2>
-  <br>Our philosophy is simple: if you put people first, search engine optimization will fall into place accordingly. If you create a website with high quality content with high quality user experience then sharing your content, link building and user engagement becomes so much easier. All factors in which all play a significant role in ranking. If you put people first, your client relationship will be a positive one with a healthy solid foundation and clear understanding of the bigger picture. 
+  <br>Our philosophy is simple: if you put people first, search engine optimization will fall into place accordingly. If you create a website with high quality content with high quality user experience then sharing your content, link building and user engagement becomes so much easier (factors in which all play a significant role in ranking). If you put people first, your client relationship will become positive. If you put your clients first, then reporting results, building a healthy solid foundation and having a clear understanding of the bigger picture also becomes so much easier.
   <br>
-  <br>What is Treefrog’s SEO mantra to live by?
+  <br>So when optimizing websites or working with clients, remember to put <b>people first, always.</b>
   <br>
-  <br><b>“People First. Always”</b>
   <br>Neil.
   <br>
   <br>
