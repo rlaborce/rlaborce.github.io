@@ -10,24 +10,24 @@ description: This is the very first post for Neil's blog.
   <br>What we’ve always found a challenge is finding the happy medium between completing the work and reporting on the results from the accomplished work. Often times we find ourselves spending the month reporting and sharing our findings with the client, that by the end of the month, we’re already a few weeks delayed in completing the action items we set out to do. We’ve been doing a better job in the last year but there are still some improvements to make. Identifying that Distilled had a very clear mantra to follow, one of the questions Kevin postulated to help improve our team was “What is our mantra to live by?”.
   <br>
   <h2>What Is Our Mantra To Live By?</h2>
-  <img src="https://rlaborce.github.io/images/seo-mantra.jpg">
+  <img src="http://www.neillaborce.com/images/seo-mantra.png">
   <br>For the next few weeks, we started brainstorming on what our SEO team stood for, how we operate, what we mean to our clients and why we do the things we do. One of our daily 15-minute morning huddles turned into a 2-to-3 hour philosophical discussion on where we see our SEO team going, where we are now, and figuring out our mantra to live by. Out of that discussion, we identified our client-interaction as such:
   <br>
   <ul>
-    <li>we help ensure our clients clearly identify their needs</li>
-    <li>we work our asses off towards meeting those needs</li>
-    <li>we measure, we optimize, we measure again</li>
-    <li>we communicate the results of our work, in a way that the client clearly understands it</li>
+    <li>- we help ensure our clients clearly identify their needs</li>
+    <li>- we work our asses off towards meeting those needs</li>
+    <li>- we measure, we optimize, we measure again</li>
+    <li>- we communicate the results of our work, in a way that the client clearly understands it</li>
   </ul>
   <br>And upon further conversation, we also identified the following key things we believer users and search engines are looking for in a website:
   <br>
   <ul>
-    <li>they have to have high quality content</li>
-    <li>they have to have useful, practical, actionable, genuine information</li>
-    <li>they have to answer the user's query and at times even go beyond it</li>
-    <li>they have to meet the user's intent</li>
-    <li>they have to be user friendly to navigate</li>
-    <li>they have to be fast</li>
+    <li>- they have to have high quality content</li>
+    <li>- they have to have useful, practical, actionable, genuine information</li>
+    <li>- they have to answer the user's query and at times even go beyond it</li>
+    <li>- they have to meet the user's intent</li>
+    <li>- they have to be user friendly to navigate</li>
+    <li>- they have to be fast</li>
   </ul>
 
   <h2>People First, Always</h2>
@@ -41,9 +41,13 @@ description: This is the very first post for Neil's blog.
   <br><i>“Clients and Users First, Always”</i>
   <br>
   <br>A few hours later…
+  <br>
   <br><i>“Users First. Clients First. Always”</i>
+  <br>
   <br>And finally, the next day Kevin replied with <i>“People First. Always”</i>
+  <br>
   <br>Ding Ding Ding! We have a winner.
+  <br>
   <br>These three simple words easily define who we are, what we do and why we do it. In the early days of SEO, the best practice to optimize a website was to ensure the best possible experience for the search engine with no consideration for the user. 
   <br>
   <br>Remember keyword spamming? 
@@ -58,11 +62,11 @@ description: This is the very first post for Neil's blog.
   <br>This same sentiment of putting the user first can be easily applied to clients. I found this nice little video when I searched “People First” on Youtube and it illustrates exactly what I mean (minus the application to insurance). Whenever you are doing any work for the client, ask yourself “Is this people first?”.
   <br>
   <ul>
-	  <li>Will this report actually be helpful to the client?</li>
-	  <li>Is optimizing this page going to get them the right leads?</li>
-	  <li>Is ranking for “Get more organic traffic” really in line with their end goal?</li>
-	  <li>Is my work making things easier for my client’s business?</li>
-	  <li>Am I actually helping make my client’s life a little better?</li> 
+	  <li>- Will this report actually be helpful to the client?</li>
+	  <li>- Is optimizing this page going to get them the right leads?</li>
+	  <li>- Is ranking for “Get more organic traffic” really in line with their end goal?</li>
+	  <li>- Is my work making things easier for my client’s business?</li>
+	  <li>- Am I actually helping make my client’s life a little better?</li> 
   </ul>
   <br>
   <br>For past few weeks, Treefrog’s SEO team has been putting this frame of mind – this mantra “People First. Always” - into practice. Any work we ever do for the client, any though we ever have for the client, we remind ourselves “People First. Always”. We found ourselves more focused, more motivated and more inspired to ensure we meet the needs of our clients. It’s also helped us remind ourselves of the bigger picture. We’re not just trying to rank for keywords, we’re trying to make a real difference into our client’s businesses and their customers.
@@ -74,5 +78,6 @@ description: This is the very first post for Neil's blog.
   <br>What is Treefrog’s SEO mantra to live by?
   <br>
   <br><b>“People First. Always”</b>
-
-Neil.
+  <br>Neil.
+  <br>
+  <br>
