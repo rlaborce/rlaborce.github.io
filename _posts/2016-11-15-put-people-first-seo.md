@@ -28,9 +28,7 @@ description: This is the very first post for Neil's blog.
     <li>- they have to be user friendly to navigate</li>
     <li>- they have to be fast</li>
   </ul>
-  <br>
   <h2>People First, Always</h2>
-  <br>
   <br>A few days later, I came up with a few simple statements and ran it by Kevin.
   <br>
   <br><i>“We help ensure businesses identify their needs, work towards meeting those needs, and lastly, measure and communicate the results of our work”.</i>
@@ -71,7 +69,6 @@ description: This is the very first post for Neil's blog.
   <br>For past few weeks, Treefrog’s SEO team has been putting this frame of mind – this mantra “People First. Always” - into practice. Any work we ever do for the client, any though we ever have for the client, we remind ourselves “People First. Always”. We found ourselves more focused, more motivated and more inspired to ensure we meet the needs of our clients. It’s also helped us remind ourselves of the bigger picture. We’re not just trying to rank for keywords, we’re trying to make a real difference into our client’s businesses and their customers.
   <br>
   <h2>Do You Put People First?</h2>
-  <br>
   <br>Our philosophy is simple: if you put people first, search engine optimization will fall into place accordingly. If you create a website with high quality content with high quality user experience then sharing your content, link building and user engagement becomes so much easier. All factors in which all play a significant role in ranking. If you put people first, your client relationship will be a positive one with a healthy solid foundation and clear understanding of the bigger picture. 
   <br>
   <br>What is Treefrog’s SEO mantra to live by?
