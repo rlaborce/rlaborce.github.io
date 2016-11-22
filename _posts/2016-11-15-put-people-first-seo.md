@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Treefrog's SEO Team Mantra - People First Always | Neil Laborce
-description: Learn about Treefrog's SEO Team Mantra  - People First, Always. Read about it's origin and what it means to the SEO team.
+title: Put People First Always with SEO | Neil Laborce
+description: Learn about Treefrog's SEO Team Mantra  - People First, Always. Read about its origin and what it means to the SEO team.
 ---
   <h1>Treefrog's SEO Team Mantra - People First, Always</h1>
   <br>A few weeks ago, my colleague <a href="https://twitter.com/KevinCobus">Kevin</a> was reading a brilliant article from the good folks at <a href="https://www.distilled.net/resources/better-business-documents-guide">Distilled</a> discussing  better ways in writing business documents. In the article, <a href="https://www.distilled.net/about/people/will-critchlow/">Will Critchlow</a> highlights and reiterates that it's not Distilled's "job to deliver reports, it’s [their] job to effect change". The article makes recommendations on how to effectively report to clients without breaking your back delivering a 100-page snoozer while missing key deliverables, such as actually doing the work! 
