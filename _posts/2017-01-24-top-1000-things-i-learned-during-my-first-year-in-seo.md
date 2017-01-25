@@ -5,6 +5,7 @@ description: My first year as an SEO Engineer was quite a whirlwind. The search 
 ---
   <h2>TOP 1000 THINGS I LEARNED!!!</h2>
   Okay...maybe I lied a bit. And possibly exaggerated my claims for click baiting purposes. LOL Sorry! I just wanted see what the CTR might look like with such an awesome headline! Now before you go on a witch hunt, I did learn a few useful things that I’d like to share. Maybe your a seasoned veteran or a rookie that just started out but hopefully these insights may help you out somehow in your own SEO journey. If you’re inclined to exit for the deceptiveness - my apologies (not really hehe). But if I’ve given you a nice little chuckle, read on!
+  <img src="http://www.neillaborce.com/images/1000-things-i-learned-in-seo.png" alt="1000 Things I Learned During My First Year in SEO">
   <br>
   <h1>Top 6 Things I Learned During My First Year in SEO</h1>
   The internet is a strange place where strange things happen. And the landscape is constantly changing where there is always something new to learn. My first year as an SEO Engineer was quite the learning experience, a whirlwind of knowledge and skills steadily hitting my face - I mean steadily being learned. It may not be a 1000 things but here are the top 6 things I learned during my first year in SEO:
