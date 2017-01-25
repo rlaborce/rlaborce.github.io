@@ -3,7 +3,7 @@ layout: post
 title: Top 1000 Things I Learned During My First Year in SEO | Neil Laborce
 description: My first year as an SEO Engineer was quite a whirlwind. The search engine landscape is constantly changing and there's always a 1000 things to learn!
 ---
-  <h2>TOP 1000 THINGS I LEARNED IN SEO!!!</h2>
+  <h2>TOP 1000 THINGS I LEARNED IN SEO</h2>
   <img src="http://www.neillaborce.com/images/1000-things-i-learned-in-seo.png" alt="1000 Things I Learned During My First Year in SEO">
   Okay...maybe I lied a bit. And possibly exaggerated my claims for click baiting purposes. <i>LOL Sorry!</i> I just wanted see what the CTR might look like with such an awesome headline! Now before you go on a witch hunt, I did learn a few useful things that I’d like to share. Maybe your a seasoned veteran or a rookie that just started out but hopefully these insights may help you out somehow in your own SEO journey. If you’re inclined to exit for the deceptiveness - my apologies (<i>not really hehe</i>). But if I’ve given you a nice little chuckle, read on!
   <br>
@@ -31,7 +31,7 @@ description: My first year as an SEO Engineer was quite a whirlwind. The search 
   <h2>1000 More Things to Learn</h2>
   I know I know… this wasn’t a 1000 things but I hope it did give you some insight to my experience during my first year in SEO, whether you’ve been in the business for 20 years, or just started in the last 20 days. The <b>search engine optimization world is in constant flux</b>, changing every single day, all in an effort to provide the best answers to people’s questions. These items I highlighted are just some of the many things I learned - from both a technical perspective and more importantly <i>holistic approach</i>.
   <br>
-  <br>If you found any of this useful or at the least, entertaining, please share it on Twitter and tag my handle <a href="https://twitter.com/neillaborce">@neillaborce</a>. Or if you have any questions or comments, please feel free to contact me at neil@treefrog.ca. As always, seek and you will find.
+  <br>If you found any of this useful or at the least, entertaining, please share it on Twitter and tag my handle <a href="https://twitter.com/neillaborce">@neillaborce</a>. Or if you have any questions or comments, please feel free to email me at <a href="mailto:neil@treefrog.ca">neil@treefrog.ca</a>. As always, seek and you will find.
   <br>  
   <br>Neil.
   <br>
