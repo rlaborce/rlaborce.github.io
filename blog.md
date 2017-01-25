@@ -8,7 +8,7 @@ description: This blog serves as documentation for Neil's progress in webmasteri
         <h3 class="h3year">2017</h3>
               <li><a href="{{ site.baseurl }}/top-1000-things-i-learned-during-my-first-year-in-seo/">
                 <div>
-                <span class="title">Things I Learned During My First Year in SEO</span>
+                <span class="title">1000 Things Learned in First Year of SEO</span>
                 <span class="date">Jan 24, 2017</span>
                 </div>
                 </a>
