@@ -33,6 +33,6 @@ description: My first year as an SEO Engineer was quite a whirlwind. SEO is alwa
   <br>
   <br>If you found any of this useful, please share it on Twitter and tag my handle <a href="https://twitter.com/neillaborce">@neillaborce</a>. Or if you have any questions or comments, please feel free to email me at <a href="mailto:neil@treefrog.ca">neil@treefrog.ca</a>. As always, seek and you will find.
   <br>  
-  <br>Neil.
+  <br>Neil Laborce.
   <br>
   <br>
