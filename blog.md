@@ -5,6 +5,14 @@ description: This blog serves as documentation for Neil's progress in webmasteri
 ---
 <div>
         <ul id="removeBullets">
+        <h3 class="h3year">2017</h3>
+              <li><a href="{{ site.baseurl }}/top-1000-things-i-learned-during-my-first-year-in-seo/">
+                <div>
+                <span class="title">Things I Learned During My First Year in SEO</span>
+                <span class="date">Jan 24, 2017</span>
+                </div>
+                </a>
+              </li>
           <h3 class="h3year">2016</h3>
               <li><a href="{{ site.baseurl }}/put-people-first-seo/">
                 <div>
