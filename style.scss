@@ -148,11 +148,11 @@ img {
 //
 
 .wrapper-masthead {
+  position: fixed;
   margin-bottom: 50px;
 }
 
 .masthead {
-  position: fixed;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
