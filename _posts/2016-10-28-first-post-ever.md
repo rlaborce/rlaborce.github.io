@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First Post Ever | Neil Laborce
+post_title: My First Post Ever
 description: This is the very first post for Neil's blog.
 ---
   <h1>My First Post Ever</h1>

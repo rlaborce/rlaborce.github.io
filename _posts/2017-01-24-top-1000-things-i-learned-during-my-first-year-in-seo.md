@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Top 1000 Things I Learned During My First Year in SEO | Neil Laborce
+post_title: Top 1000 Things I Learned During My First Year in SEO
 description: My first year as an SEO Engineer was quite a whirlwind. SEO is always changing and there's at least a 1000 things to learn!
 ---
   <h2>TOP 1000 THINGS I LEARNED IN SEO</h2>
