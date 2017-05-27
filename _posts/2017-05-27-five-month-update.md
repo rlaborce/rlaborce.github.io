@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things Learned in the Last 5 Months| Neil Laborce
+title: Things Learned in the Last 5 Months | Neil Laborce
 post_title: Things Learned in the Last 5 Months
 description: Things I learned about SEO, SEM and CRO in the last 5 months.
 ---
