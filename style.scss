@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   a {
     color: inherit;
   }
@@ -232,6 +232,44 @@ nav {
       color: $darkGray;
     }
   }
+}
+
+footer {
+  text-align: center;
+  margin-top: 18px; // @TODO: Vertically middle align
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+
+  @include mobile {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+
+  a {
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+    @include mobile {
+      margin: 0 10px;
+      color: $darkGray;
+    }
+  }
+}
+
+a.read-more {
+  background: black;
+  border-radius: 1px;
+  color:white;
+  font-size:12px;
+  padding:10px;
+  font-weight:300;
+    &:hover {
+	  background: gray;
+	  }
 }
 
 //

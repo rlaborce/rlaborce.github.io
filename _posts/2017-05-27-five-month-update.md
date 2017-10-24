@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Things Learned in the Last 5 Months | Neil Laborce
-post_title: Things Learned in the Last 5 Months
+title: Things Learned in the Last 5 Months
 description: Things I learned about SEO, SEM and CRO in the last 5 months.
+excerpt_separator: <!--more-->
 ---
   <img src="{{ site.baseurl }}/images/brain_dump.jpg" border="0.5">
-  <h1>Things Learned in the Last Five Months</h1>
+
   So its been a while since my last blog post. I learned a lot of new things pertaining to SEO, SEM and CRO, so this will be more of a brain dump with little structure.
+  <!--more-->
   <br>
   <h3>1. Google Data Studio</h3>
   This thing is a life saver. I used to have to export csv files from Google Analytics and make charts and graphs on Excel and then make a report for all 20+ clients. It took me a good week to create these reports back then. With Google Data Studio, I've cut down the reporting to 1 day - talk about efficiency! Taking elements from Distilled's <a href="https://www.distilled.net/resources/better-business-documents-guide">Better Business Document Guide</a>, we've also been implementing what we like to call the "Pyramid" style reporting. This is when we tell "the story first, following up with the document for reference and action, and providing the underlying data as an appendix for the interested reader". Most people are less inclined to read the details and want a simple "are we up or down this month?" answer. With this style of reporting, we've been much more efficient in communicating our findings and action plan.

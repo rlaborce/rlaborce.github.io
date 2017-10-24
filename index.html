@@ -1,13 +1,42 @@
 ---
 layout: default
-title: Neil Laborce | SEO Engineer
-description: Neil Laborce is an SEO Engineer at Treefrog Inc. who takes a results-oritened, data-driven, users-first approach to optimizing websites.
+title: Neil Laborce | Digital Marketer
+description: Neil Laborce is the lead SEM Specialist and lead SEO Engineer at Treefrog Inc.
 ---
-  <img src="{{ site.baseurl }}/images/neillaborce.png">
-  <div class="home">
-  <br>I'm the lead SEO Engineer at <a href="https://www.treefrog.ca">Treefrog Inc.</a> working on SEO, SEM and CRO stuff.
-  <br>
-  <br>- Neil Laborce
-  <br>
-  <br>
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <div class="content">
+    <i>{{ post.date | date: "%-d %B %Y" }}</i>
+    <br/>{{ post.excerpt }}
   </div>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">[ Read More ]</a>
+  <br/>
+  <br/>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination" style="text-align:center; padding-top:25px">
+  {% if paginator.previous_page %}
+  <a class="pagination" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;</a>
+  {% else %}
+    
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <strong><u>{{ page }}</u></strong>
+    {% elsif page == 1 %}
+      <a class="pagination" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a class="pagination" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="pagination" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&rarr;</a>
+  {% else %}
+    
+  {% endif %}
+</div>
+{% endif %}
