@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Neil Laborce | SEO Engineer
-description: Neil Laborce is an SEO Engineer at Treefrog Inc. who takes a results-oritened, data-driven, users-first approach to optimizing websites.
+title: Neil Laborce | SEM Specialist | SEO Engineer
+description: Neil Laborce is the lead SEM Specialist & SEO Engineer at Treefrog Inc.
 ---
   <img src="{{ site.baseurl }}/images/neillaborce.png">
   <br>
