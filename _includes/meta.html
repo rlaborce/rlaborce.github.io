@@ -6,13 +6,17 @@
 	<meta name="title" content="{{ page.title }} | Neil Laborce"/>
     <meta name="description" content="{{ page.description }}">
     <meta property="og:description" content="{{ page.description }}" />
-    <meta name="author" content="{{ page.name }}" />
-
+    <meta name="author" content="Neil Laborce" />    
+    {% if page.index %}
+    <meta name="robots" content="{{ page.index }}">
+    {% endif %}
+    {% if page.canonicalurl %}
+    <link rel="canonical" href="{{ page.canonicalurl }}">
+	{% endif %}
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
-
     {% if page.metatags %}
     <meta name="robots" content="{{ page.metatags }}">
     {% endif %}

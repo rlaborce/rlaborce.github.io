@@ -2,6 +2,8 @@
 layout: post
 title: What Does 0% Bounce Rate Mean on Google Analytics?
 description: When analyzing a specific page's performance Google Analytics, it will always have a 0% bounce rate if it is not the first page the user views.
+canonicalurl: http://www.neillaborce.com/what-does-0-bounce-rate-mean/
+index: index, follow
 excerpt_separator: <!--more-->
 ---
 
