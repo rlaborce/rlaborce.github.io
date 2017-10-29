@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
   For example, a user visits a website's home page, clicks on the blog page and then clicks on a blog post. The blog post is not the landing page, so the number of single-page sessions for that blog post is 0. Calculating the bounce rate with the number of single-page sessions equal to 0 divided by the total number of sessions is always going to yield 0%.
 
   <h2>Other Technical Issues</h2>
-  However, when assessing the bounce rate outside of Behavior > Site Content > All Pages, there may be other technical issues occurring. If a page is expected to have page views from external traffic sources (i.e. a blog post linked from other websites) but results in zero landing page metrics, there may duplicate tags, redirect issues or third party plugins affecting Google Analytics tracking code from triggering correctly.  
+  However, when assessing the bounce rate outside of Behavior > Site Content > All Pages, there may be other technical issues occurring. If a page is expected to have page views from external traffic sources (i.e. a blog post linked from other websites) but results in zero landing page metrics, there may be duplicate tags, redirect issues or third party plugins affecting Google Analytics tracking code from triggering correctly.  
   
   
   <br/>Please share this blog post if you found it useful!
