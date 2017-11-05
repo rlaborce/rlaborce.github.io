@@ -60,7 +60,7 @@ excerpt_separator: <!--more-->
 
   <h2>How To Clean Up Your PPC Keyword List?</h2>
 
-  Keywords in Adwords are not case-sensitive, so to keep things clean and organized, keep your list lowercased. When analyzing search queries from previous campaigns, users may often have spelling mistakes and extra spaces. Use the TRIM and LOWER function along with the "Spelling" tool to remove correct misspelled words, turn them lowercased and remove all extra space characters. 
+  Keywords in Adwords are not case-sensitive, so to keep things clean and organized, keep your list lowercased. When analyzing search queries from previous campaigns, users may often have spelling mistakes and extra spaces. Use the TRIM and LOWER function along with the "Spelling" tool to correct misspelled words, turn them lowercased and remove all extra space characters. 
 
   <img src="{{ site.baseurl }}/images/lower-trim-function.png" style="border:1px solid black" alt="broad match type to phrase or exact match">
   
