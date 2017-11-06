@@ -51,7 +51,7 @@ excerpt_separator: <!--more-->
   <p class="code"><strong>=""""&A1&""""</strong>
   <br/><strong>="["&A1&"]"</strong></p>
 
-  <br/>With the CONCATENATE function, you insert the quotation marks or opening/closing brackets at between the text.
+  <br/>With the CONCATENATE function, you insert the quotation marks or opening/closing brackets between the text.
 
   <p class="code"><strong>=concatenate("""",A1,"""")</strong>
   <br/><strong>=concatenate("[",A1"]")</strong></p>
