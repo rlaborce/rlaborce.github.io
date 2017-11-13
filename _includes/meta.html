@@ -12,7 +12,7 @@
     {% endif %}
     <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
 	{% if paginator.previous_page %}
-    <link rel="prev" href="{{ paginator.previous_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | replace:'.com/','.com' | append: '/' }}">
+    <link rel="prev" href="{{ paginator.previous_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | append: '/' | replace: '//','/' }}">
     {% endif %}
     {% if paginator.next_page %}
     <link rel="next" href="{{ paginator.next_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | append: '/' }}">

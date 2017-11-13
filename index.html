@@ -19,7 +19,7 @@ index: index, follow
 {% if paginator.total_pages > 1 %}
 <div class="pagination" style="text-align:center; padding-top:25px">
   {% if paginator.previous_page %}
-  <a class="pagination" href="{{ paginator.previous_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | replace:'.com/','.com' | append: '/' }}">&larr;</a>
+  <a class="pagination" href="{{ paginator.previous_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | append: '/' | replace: '//','/' }}">&larr;</a>
   {% else %}
     
   {% endif %}
