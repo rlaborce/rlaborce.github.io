@@ -2,7 +2,6 @@
 layout: post
 title: 4 Excel Formulas for PPC Keywords That You Should Know
 description: Four useful functions you should be using when drafting PPC keywords include TRIM, CONCATENATE, SUBSTITUTE and LOWER. Learn more!
-canonicalurl: http://www.neillaborce.com/excel-formulas-for-ppc-keywords
 index: index, follow
 excerpt_separator: <!--more-->
 ---

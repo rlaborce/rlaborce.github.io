@@ -2,7 +2,6 @@
 layout: post
 title: How to do Site-Wide A/B Testing on Google Optimize?
 description: To do site-wide A/B testing on Google Optimize, simply update your targeting to include all pages. That's it! 
-canonicalurl: http://www.neillaborce.com/site-wide-experiment-on-google-optimize
 index: index, follow
 excerpt_separator: <!--more-->
 ---

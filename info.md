@@ -2,7 +2,6 @@
 layout: default
 title: Info | Neil Laborce
 description: Learn about Neil Laborce's professional career and his start into SEO.
-canonicalurl: http://www.neillaborce.com/info/
 index: index, follow
 ---
 <img src="{{ site.baseurl }}/images/neillaborce-info.png">
