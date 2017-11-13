@@ -19,7 +19,7 @@ index: index, follow
 {% if paginator.total_pages > 1 %}
 <div class="pagination" style="text-align:center; padding-top:25px">
   {% if paginator.previous_page %}
-  <a class="pagination" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;</a>
+  <a class="pagination" href="{{ paginator.previous_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | replace:'.com/','.com' | append: '/' }}">&larr;</a>
   {% else %}
     
   {% endif %}
@@ -35,7 +35,7 @@ index: index, follow
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a class="pagination" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}/">&rarr;</a>
+    <a class="pagination" href="{{ paginator.next_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | append: '/' }}">&rarr;</a>
   {% else %}
     
   {% endif %}
