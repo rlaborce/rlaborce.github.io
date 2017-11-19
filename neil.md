@@ -8,5 +8,5 @@ index: index, follow
   <br>
   <br>I'm the lead SEM Specialist and lead SEO Engineer at <a href="https://www.treefrog.ca">Treefrog Inc.</a>
   <br>
-  <br>Contact me via <a href="mailto:neil@treefrog.ca">email</a> or <a href="https://twitter.com/NeilLaborce">twitter</a>.
+  <br>Contact me via <a href="mailto:neil.laborce@gmail.com">email</a> or <a href="https://twitter.com/NeilLaborce">twitter</a>.
   <br>
