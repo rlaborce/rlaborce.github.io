@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->
 
   <h2>2: Connect your Google Analytics Account</h2>
 
-  I've seen a few campaigns isolated to just AdWords and not connected with Google Analytics. I'm never sure of the reason why it is set up that way; perhaps the client wasn't willing to give access to the Analytics account, or they just wanted to keep it within AdWords. However, I think its very important to connect AdWords with Analytics. You only get one side of the story if you keep your assessments within AdWords. Connecting Analytics allows for a holistic approach to marketing, giving you a plenty of insights to leverage for your analysis. You can see the relationship between other channels as well as user behaviour as it relates to your landing pages. 
+  I've seen a few campaigns isolated to just AdWords and not connected with Google Analytics. I'm never sure of the reason why it is set up that way; perhaps the client wasn't willing to give access to the Analytics account, or they just wanted to keep it within AdWords. However, I think its very important to connect AdWords with Analytics. You only get one side of the story if you keep your assessments within AdWords. Connecting Analytics allows for a holistic approach to marketing, giving you plenty of insights to leverage for your analysis. You can see the relationship between other channels as well as user behaviour as it relates to your landing pages. 
   
   <img src="{{ site.baseurl }}/images/connect-adwords-with-analytics.png" alt="analytics adwords" style="border:1px solid black">
   
@@ -29,7 +29,7 @@ excerpt_separator: <!--more-->
 
   <h2>3: Enable Conversion Tracking</h2>
   
-   Now sometimes you're goal may not necessarily require conversion tracking. In our example above, we noted the objective is to obtain website traffic so we might not need to track conversions at the moment. However, you should monitor conversions anyway! Your goal will eventually change over time and so, collecting conversion data will help assess how your campaign is currently performing and how you would need to further optimize the campaign. If you connect your Google Analytics account, you'll also be able to import your goals from Analytics into AdWords. I use Tag Manager to generate events and turn these events into conversion points on Analytics. I then link Analytics and AdWords and import the conversion points accordingly. This method just gives me way more flexibility.
+   Now sometimes your goal may not necessarily require conversion tracking. In our example above, we noted the objective is to obtain website traffic so we might not need to track conversions at the moment. However, you should monitor conversions anyway! Your goal will eventually change over time and so, collecting conversion data will help assess how your campaign is currently performing and how you would need to further optimize the campaign. If you connect your Google Analytics account, you'll also be able to import your goals from Analytics into AdWords. I use Tag Manager to generate events and turn these events into conversion points on Analytics. I then link Analytics and AdWords and import the conversion points accordingly. This method just gives me way more flexibility.
   
   <img src="{{ site.baseurl }}/images/adwords-conversion-tracking.png" alt="adwords conversion tracking" style="border:1px solid black">
   
