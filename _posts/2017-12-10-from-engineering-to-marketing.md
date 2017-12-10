@@ -56,7 +56,7 @@ excerpt_separator: <!--more-->
 
   <h2>Digital Marketing</h2>
 
-  While researching for career options, I found an article about a <strong>former engineer who switched their career to digital marketing</strong>. I started researching on the different types of digital marketing positions: Technical SEO, SEO strategist, PPC Manager, Social Media Coordinator, Content Writer, etc. <strong>The more I research, the more I got excited!</strong> I looked at all the requirements and qualifications, and despite where my career started, I had very relevant skills and experiences for these positions. The hard lessons I learned owning a business also gave me another advantage - <strong>I knew what not to do when marketing for a business.</strong>
+  While researching for career options, I found an article about a <strong>former engineer who switched their career to digital marketing</strong>. I started researching on the different types of digital marketing positions: Technical SEO, SEO strategist, PPC Manager, Social Media Coordinator, Content Writer, etc. <strong>The more I researched, the more I got excited!</strong> I looked at all the requirements and qualifications, and despite where my career started, I had very relevant skills and experiences for these positions. The hard lessons I learned owning a business also gave me another advantage - <strong>I knew what not to do when marketing for a business.</strong>
 
   <h2>5 Essential Requirements in Marketing</h2>
 
