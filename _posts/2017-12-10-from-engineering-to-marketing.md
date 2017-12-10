@@ -84,7 +84,7 @@ excerpt_separator: <!--more-->
 
   <h2>From Engineer to Business Owner to Marketer</h2>
 
-  After several days of thinking and medidating, I finally took the plunge and started applying for digital marketing positions, especially ones that dealt with SEO. 2 years ago around this time, I eventually restarted my career as an SEO engineer. Over time, I started managing PPC campaigns and became the lead on both SEO and SEM initiatives. Today, I have an exciting and fulfilling career where I get to leverage my skills, education, interests and experiences all in one. 
+  After several days of thinking and meditating, I finally took the plunge and started applying for digital marketing positions, especially ones that dealt with SEO. 2 years ago around this time, I eventually restarted my career as an SEO engineer. Over time, I started managing PPC campaigns and became the lead on both SEO and SEM initiatives. Today, I have an exciting and fulfilling career where I get to leverage my skills, education, interests and experiences all in one. The purpose I had been longing for was clear as ever.
   
   I love assessing a significant amount of data and making sense of it. I love leveraging videos for brand awareness campaigns. I love seeing my clients get excited when I report to them about an increase in conversions. I love everything about digital marketing thanks to engineering and entrepreneurship. To this day, I always wear my Iron Ring. It’s a reminder that even though I don’t have a degree in marketing or computer science, <strong>I am qualified</strong> to work in the digital marketing industry.
 
