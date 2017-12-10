@@ -56,7 +56,7 @@ excerpt_separator: <!--more-->
 
   <h2>Digital Marketing</h2>
 
-  While researching for career options, I found an article about a <strong>former engineer who switched their career to digital marketing</strong>. I started researching on the different types of digital marketing positions: Technical SEO, SEO strategist, PPC Manager, Social Media Coordinator, Content Writer, etc. I looked at all the requirements and qualifications, and despite where my career started, I had very relevant skills and experiences for these positions. 
+  While researching for career options, I found an article about a <strong>former engineer who switched their career to digital marketing</strong>. I started researching on the different types of digital marketing positions: Technical SEO, SEO strategist, PPC Manager, Social Media Coordinator, Content Writer, etc. <strong>The more I research, the more I got excited!</strong> I looked at all the requirements and qualifications, and despite where my career started, I had very relevant skills and experiences for these positions. The hard lessons I learned owning a business also gave me another advantage - <strong>I knew what not to do when marketing for a business.</strong>
 
   <h2>5 Essential Requirements in Marketing</h2>
 
@@ -84,7 +84,7 @@ excerpt_separator: <!--more-->
 
   <h2>From Engineer to Business Owner to Marketer</h2>
 
-  After several days of thinking, I finally took the plunge and started applying for digital marketing positions, especially ones that dealt with SEO. 2 years ago around this time, I eventually restarted my career as an SEO engineer. Over time, I started managing PPC campaigns and became the lead on both SEO and SEM initiatives. Today, I have an exciting and fulfilling career where I get to leverage my skills, education, interests and experiences all in one. 
+  After several days of thinking and medidating, I finally took the plunge and started applying for digital marketing positions, especially ones that dealt with SEO. 2 years ago around this time, I eventually restarted my career as an SEO engineer. Over time, I started managing PPC campaigns and became the lead on both SEO and SEM initiatives. Today, I have an exciting and fulfilling career where I get to leverage my skills, education, interests and experiences all in one. 
   
   I love assessing a significant amount of data and making sense of it. I love leveraging videos for brand awareness campaigns. I love seeing my clients get excited when I report to them about an increase in conversions. I love everything about digital marketing thanks to engineering and entrepreneurship. To this day, I always wear my Iron Ring. It’s a reminder that even though I don’t have a degree in marketing or computer science, <strong>I am qualified</strong> to work in the digital marketing industry.
 
