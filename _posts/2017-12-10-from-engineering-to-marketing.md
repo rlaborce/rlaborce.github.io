@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life is Hard - My Journey from Engineering to Entrepreneurship to Digital Marketing
-description: Ten years ago I entered Ryerson University to study Electrical Engineering. Today, I am the lead SEM Specialist and lead SEO Engineer working on various digital marketing initiatives. How did that happen?
+description: Ten years ago I entered Ryerson University to study Electrical Engineering. Today, I am the lead SEM & SEO Specialist working on various digital marketing initiatives. How did that happen?
 index: index, follow
 excerpt_separator: <!--more-->
 ---
@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
   
   If you were to ask me how long it took to figure out what I wanted to do in life, I would say, more or less about 26 years. I am currently 28. Like most people my age (or perhaps most people in general), I have spent 93% of my life wandering, unsure of purpose. Ten years ago I graduated high school and entered Ryerson University to study Electrical Engineering. 
 
-  Today, I am the lead SEM Specialist and lead SEO Engineer working on various digital marketing initiatives. How did that happen?
+  Today, I am the lead SEM & SEO Specialist working on various digital marketing initiatives. How did that happen?
 
   <!--more-->
 
