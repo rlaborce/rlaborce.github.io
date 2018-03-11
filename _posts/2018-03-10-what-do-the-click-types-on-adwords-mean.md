@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
   <br/><strong>Mobile clicks-to-call</strong>: This occurs when you're using call extensions and and a user clicks on the phone number on your search ad when using a mobile devices.
   <br/><strong>Sitelink</strong>: This happens when you use sitelink extensions for your search ad and a user clicks on the sitelink either on a mobile or desktop device.
   <br/><strong>Driving Direction</strong>: If you're using location extensions, your ad may be shown on the Google My Business Knowledge panel or on Google Maps. A user may then click on the "Get Directions" call-to-action.
-  <br/><strong>Get location details<strong>: Similar to Driving Direction, if you're using location extensions, a user may click on the "Get location details" call-to-action .
+  <br/><strong>Get location details</strong>: Similar to Driving Direction, if you're using location extensions, a user may click on the "Get location details" call-to-action .
   <strong>Price extension</strong> If you're using price extensions, any component of the extension clicked on counts as a click.
 
   <h2>How many Click Types are there on AdWords?</h2>
