@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
   <br/><strong>Sitelink</strong>: This happens when you use sitelink extensions for your search ad and a user clicks on the sitelink either on a mobile or desktop device.
   <br/><strong>Driving Direction</strong>: If you're using location extensions, your ad may be shown on the Google My Business Knowledge panel or on Google Maps. A user may then click on the "Get Directions" call-to-action.
   <br/><strong>Get location details</strong>: Similar to Driving Direction, if you're using location extensions, a user may click on the "Get location details" call-to-action .
-  <br/><strong>Price extension</strong> If you're using price extensions, any component of the extension clicked on counts as a click.
+  <br/><strong>Price extension</strong>: If you're using price extensions, any component of the extension clicked on counts as a click.
 
   <h2>How many Click Types are there on AdWords?</h2>
   
