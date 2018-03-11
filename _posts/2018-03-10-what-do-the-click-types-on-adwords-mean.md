@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
   <h2>Common Click Types</h2>
 
-  <br/><strong>Headline</strong>: This is when users click on the headline on your search ad either on a mobile or desktop device.
+  <strong>Headline</strong>: This is when users click on the headline on your search ad either on a mobile or desktop device.
   <br/><strong>Mobile clicks-to-call</strong>: This occurs when you're using call extensions and and a user clicks on the phone number on your search ad when using a mobile devices.
   <br/><strong>Sitelink</strong>: This happens when you use sitelink extensions for your search ad and a user clicks on the sitelink either on a mobile or desktop device.
   <br/><strong>Driving Direction</strong>: If you're using location extensions, your ad may be shown on the Google My Business Knowledge panel or on Google Maps. A user may then click on the "Get Directions" call-to-action.
@@ -22,7 +22,7 @@ excerpt_separator: <!--more-->
 
   <h2>How many Click Types are there on AdWords?</h2>
   
-  There are about 45 different click types looking through <a href="https://developers.google.com/adwords/api/docs/appendix/reports/click-performance-report#clicktype" target="blank_" rel="nofollow">Google's AdWords API documentation</a>
+  There are about 45 different click types looking through <a href="https://developers.google.com/adwords/api/docs/appendix/reports/click-performance-report#clicktype" target="blank_" rel="nofollow">Google's AdWords API documentation</a>.
   
   <ol>
 	<li>Headline</li>
