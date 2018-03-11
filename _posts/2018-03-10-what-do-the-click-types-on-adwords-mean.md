@@ -13,11 +13,11 @@ excerpt_separator: <!--more-->
 
   <h2>Common Click Types</h2>
 
-  <strong>Headline</strong>: This is when users click on the headline on your search ad either on a mobile or desktop device.
-  <strong>Mobile clicks-to-call</strong>: This occurs when you're using call extensions and and a user clicks on the phone number on your search ad when using a mobile devices.
-  <strong>Sitelink</strong>: This happens when you use sitelink extensions for your search ad and a user clicks on the sitelink either on a mobile or desktop device.
-  <strong>Driving Direction</strong>: If you're using location extensions, your ad may be shown on the Google My Business Knowledge panel or on Google Maps. A user may then click on the "Get Directions" call-to-action.
-  <strong>Get location details<strong>: Similar to Driving Direction, if you're using location extensions, a user may click on the "Get location details" call-to-action .
+  <br/><strong>Headline</strong>: This is when users click on the headline on your search ad either on a mobile or desktop device.
+  <br/><strong>Mobile clicks-to-call</strong>: This occurs when you're using call extensions and and a user clicks on the phone number on your search ad when using a mobile devices.
+  <br/><strong>Sitelink</strong>: This happens when you use sitelink extensions for your search ad and a user clicks on the sitelink either on a mobile or desktop device.
+  <br/><strong>Driving Direction</strong>: If you're using location extensions, your ad may be shown on the Google My Business Knowledge panel or on Google Maps. A user may then click on the "Get Directions" call-to-action.
+  <br/><strong>Get location details<strong>: Similar to Driving Direction, if you're using location extensions, a user may click on the "Get location details" call-to-action .
   <strong>Price extension</strong> If you're using price extensions, any component of the extension clicked on counts as a click.
 
   <h2>How many Click Types are there on AdWords?</h2>
@@ -63,11 +63,11 @@ excerpt_separator: <!--more-->
 	<li>Swipeable Gallery - Swipes</li>
 	<li>Swipeable Gallery - See More</li>
 	<li>Swipeable Gallery - Sitelink 1</li>
-	</li>Swipeable Gallery - Sitelink 2</li>
-	</li>Swipeable Gallery - Sitelink 3</li>
-	</li>Swipeable Gallery - Sitelink 4</li>
-	</li>Swipeable Gallery - Sitelink 5</li>
-	</li>Swipeable Gallery - unknown</li>
+	<li>Swipeable Gallery - Sitelink 2</li>
+	<li>Swipeable Gallery - Sitelink 3</li>
+	<li>Swipeable Gallery - Sitelink 4</li>
+	<li>Swipeable Gallery - Sitelink 5</li>
+	<li>Swipeable Gallery - unknown</li>
   </ol>
 
   Admittedly, I haven't seen a majority of these click types since I've been primarily focused on Search Ads. Particularly, I haven't seen any information on Broadband Plan and Wireless Plan. And I'm not too sure on what Other and Unknown exactly mean. 
