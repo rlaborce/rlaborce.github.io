@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Neil Laborce | Digital Media Manager
-description: I find simple and elegant solutions to complex problems.
+description: I'm a Digital Media Manager at DAC, specializing in paid search, search engine optimization and conversion rate optimization.
 index: index, follow
 ---
   <img src="{{ site.baseurl }}/images/neillaborce.png">
