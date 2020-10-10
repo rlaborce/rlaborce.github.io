@@ -6,7 +6,7 @@ index: index, follow
 ---
   <img src="{{ site.baseurl }}/images/neillaborce.png">
   <br>
-  <br>I'm a Paid Marketing Manager at <a href="https://localcoinatm.com/">Localcoin</a>. I formerly led an award-winning team of marketing specialists as Digital Media Manager at <a href="https://www.dacgroup.com/">DAC</a>. Prior to that, I was the lead SEM & SEO Specialist at <a href="https://www.treefrog.ca">Treefrog Inc.</a> I find simple and elegant solutions to complex problems.
+  <br>I'm a Paid Marketing Manager at <a href="https://localcoinatm.com/">Localcoin</a>. I formerly led an <a href="https://www.dacgroup.com/blog/omma-awards-2019-and-the-winner-is-dac/">award-winning</a> team of marketing specialists as a Digital Media Manager at <a href="https://www.dacgroup.com/">DAC</a>. Prior to that, I was the lead SEM & SEO Specialist at <a href="https://www.treefrog.ca">Treefrog Inc.</a> I find simple and elegant solutions to complex problems.
   <br>
   <br>Let's get in touch. Send me a message on <a href="https://www.linkedin.com/in/rnlaborce/">LinkedIn</a>!
   <br>
