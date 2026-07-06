@@ -1,15 +1,14 @@
 ---
 layout: default
 title: Neil's Story
-description: By leveraging engineering, entrepreneurship and marketing, I create meaningful marketing experiences rooted in data, automation, efficiency and effectiveness.
+description: A decade of helping high-growth companies scale through data-driven strategy, experimentation, and people-first leadership.
 index: index, follow
 ---
 <img src="{{ site.baseurl }}/images/neillaborce-info.png">
 <br>
-<br>I'm a former electrical engineering undergrad who worked in the solar energy industry for several years. During my tenure, I got into a motorcycle accident and had an epiphany to start my own business. This business eventually failed but in the process, I learned so much about <a href="{{ site.baseurl }}/from-engineering-to-marketing/">marketing</a>. I reset my career and started working in growth marketing.
+<br>I began my career as an electrical engineer in the renewable energy industry. A life-changing motorcycle accident pushed me to take a chance on entrepreneurship, where I built a business from the ground up. Although the venture ultimately failed, it sparked a passion for marketing and taught me invaluable lessons about customer acquisition, resilience, and building from first principles.
 <br>
-<br>For over a decade, I've been helping businesses scale growth and revenue, strategizing, managing and optimizing all growth marketing efforts. I take a results-oriented, data-driven, people-first approach to growth marketing. By leveraging engineering, entrepreneurship and marketing, I create meaningful growth marketing experiences rooted in data, automation, efficiency and effectiveness.
+<br>That experience led me to growth marketing, where I've spent the past decade helping companies scale customer acquisition and revenue. I bring an engineer's analytical mindset, an entrepreneur's ownership mentality, and a leader's people-first approach to building sustainable growth through data, experimentation, automation, and high-performing teams.
 <br>
-<br>See my credentials and certifications here: <a href="https://ca.linkedin.com/in/rnlaborce">LinkedIn</a>.
 <br>
 <br>
