@@ -1,0 +1,43 @@
+---
+layout: default
+title: Neil Laborce | Memo Archive
+description: Archived memos on marketing, growth, leadership, and lessons learned along the way.
+index: index, follow
+---
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  <div class="content">
+    <i>{{ post.date | date: "%-d %B %Y" }}</i>
+    <br/>{{ post.excerpt }}
+  </div>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">[ Read More ]</a>
+  <br/>
+  <br/>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination" style="text-align:center; padding-top:25px">
+  {% if paginator.previous_page %}
+  <a class="pagination" href="{{ paginator.previous_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | append: '/' | replace: '.com//','.com/' }}">&larr;</a>
+  {% else %}
+    
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <strong><u>{{ page }}</u></strong>
+    {% elsif page == 1 %}
+      <a class="pagination" href="http://www.neillaborce.com/">{{ page }}</a>
+    {% else %}
+      <a class="pagination" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}/">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="pagination" href="{{ paginator.next_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | append: '/' }}">&rarr;</a>
+  {% else %}
+    
+  {% endif %}
+</div>
+{% endif %}

@@ -1,43 +1,12 @@
 ---
 layout: default
 title: Neil Laborce | Director, Growth
-description: Turning complexity into clarity and strategy into measurable business outcomes.
+description: Building and scaling impactful growth engines and elevating talent for over a decade. Turning complexity into clarity and strategy into measurable business outcomes.
 index: index, follow
 ---
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-  <div class="content">
-    <i>{{ post.date | date: "%-d %B %Y" }}</i>
-    <br/>{{ post.excerpt }}
-  </div>
-  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">[ Read More ]</a>
-  <br/>
-  <br/>
-{% endfor %}
-
-{% if paginator.total_pages > 1 %}
-<div class="pagination" style="text-align:center; padding-top:25px">
-  {% if paginator.previous_page %}
-  <a class="pagination" href="{{ paginator.previous_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | append: '/' | replace: '.com//','.com/' }}">&larr;</a>
-  {% else %}
-    
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <strong><u>{{ page }}</u></strong>
-    {% elsif page == 1 %}
-      <a class="pagination" href="http://www.neillaborce.com/">{{ page }}</a>
-    {% else %}
-      <a class="pagination" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}/">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a class="pagination" href="{{ paginator.next_page_path | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url | append: '/' }}">&rarr;</a>
-  {% else %}
-    
-  {% endif %}
-</div>
-{% endif %}
+  <img src="{{ site.baseurl }}/images/neillaborce2026.png">
+  <br>
+  <br>Currently Director, Growth at <a href="https://felixforyou.ca">Felix</a>. Previously, I led growth marketing at <a href="https://relayfi.com/">Relay</a>, <a href="https://www.hellofresh.ca/">HelloFresh Canada</a>, and <a href="https://www.dacgroup.com/">DAC</a>, building durable growth through strategy, data, technology, and people. Outside of work, I'm building my creative brand <a href="https://www.onlyuntilthen.com/">onlyuntilthen</a>, spending time in the gym, and making memories with my wife and two daughters.
+  <br>
+  <br>Let's <a href="https://www.linkedin.com/in/rnlaborce/">connect</a>.
+  <br>
