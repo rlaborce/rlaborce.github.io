@@ -80,7 +80,7 @@ excerpt_separator: <!--more-->
 
   <h3>5. Positive Client-Relationship</h3>
 
-  Both engineers and digital marketers need to communicate their assessments precisely to a client. But as a former business owner, this is where I felt I could make a huge impact. Experiencing my entrepreneurial failings, allows me to not only empathize with business owners but sympathize with them as well. I understand the day-to-day stresses of having to keep a business afloat. I know the anxiety that comes with being an entrepreneur. And I can most definitely communicate in their language. A business owner just wants to know - are we up or down? Being not only in the engineering world but having my own business allows me to create a sympathetic and positive client-relationship - a relationship necessary to thrive in the digital marketing industry.  
+  Both engineers and digital marketers need to communicate their assessments precisely to a client. But as a former business owner, this is where I felt I could make a huge impact. Experiencing my entrepreneurial failings, allows me to not only empathize with business owners but sympathize with them as well. I understand the day-to-day stresses of having to keep a business afloat. I know the anxiety that comes with being an entrepreneur. And I can most definitely communicate in their language. A business owner just wants to know - are we up or down? Being not only in the engineering world but having my own business allows me to create a sympathetic and <a href="https://www.neillaborce.com/put-people-first-seo/">positive client-relationship</a> - a relationship necessary to thrive in the digital marketing industry.  
 
   <h2>From Engineer to Business Owner to Marketer</h2>
 
